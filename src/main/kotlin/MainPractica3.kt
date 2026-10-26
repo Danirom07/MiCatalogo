@@ -11,6 +11,7 @@ fun main() {
         println("2. Leer catalogo desde XML")
         println("3. Leer catalogo desde JSON")
         println("4. Conversiones entre formatos")
+        println("5. Gestion fichero BIN")
         println("0. Salir")
         println("====================================")
         print("Elige una opcion: ")
@@ -72,6 +73,8 @@ fun main() {
             }
 
             4 -> menuConversiones()
+
+            5 -> menuVideojuegoBin()
 
             0 -> {
 
