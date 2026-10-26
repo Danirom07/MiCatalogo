@@ -1,6 +1,6 @@
 # Catálogo de Videojuegos
 
-Este proyecto es un programa de consola desarrollado en Kotlin que permite gestionar un catálogo de videojuegos. El programa trabaja con archivos en formato CSV, XML y JSON, y permite convertir la información entre estos formatos. Además, gestiona los videojuegos en un archivo binario con acceso aleatorio.
+Este proyecto es un programa de consola desarrollado en Kotlin que nos permite gestionar un catálogo de videojuegos. El programa trabaja con archivos en formato CSV, XML y JSON, y nos permite convertir la información entre estos formatos. Tambien, gestiona los videojuegos en un archivo binario con acceso aleatorio.
 
 El sistema permite importar videojuegos desde un archivo CSV, leer los datos almacenados en el archivo binario, añadir nuevos videojuegos, modificar los existentes y eliminar registros.
 
